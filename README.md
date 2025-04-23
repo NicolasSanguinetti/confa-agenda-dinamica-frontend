@@ -54,14 +54,4 @@ The frontend code is saved in the `frontend` subdirectory.
 
 3. Once the page is loaded from a remote location, upload a JPG file in the front-end and you will see the object in the backend S3 bucket.
 
-## Next steps
 
-The AWS Compute Blog post at the top of this README file contains additional information about this pattern.
-
-If you have any questions, please raise an issue in the GitHub repo.
-
-==============================================
-
-Copyright 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-
-SPDX-License-Identifier: MIT-0
