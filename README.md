@@ -8,7 +8,8 @@ Important: this application uses various AWS services and there are costs associ
 .
 ├── README.MD                   <-- This instructions file
 ├── frontend                    <-- Simple JavaScript application illustrating upload
-├── getSignedURL                <-- Source code for the serverless backend
+├── getSignedURL                <-- Source code for the serverless backend (S3 Upload)
+├── s3FileProcessing            <-- Source code for the serverless backend (S3 File Processing)
 ```
 
 ## Requirements
